@@ -6,11 +6,11 @@ lambda calculus programming language
 - [x] command line interface
 - [x] token
 - [x] lexer
-- [] AST
-- [] parser
-- [] IR
-- [] IR emition
-- [] ASM
-- [] ASM emition
+- [ ] AST
+- [ ] parser
+- [ ] IR
+- [ ] IR emition
+- [ ] ASM
+- [ ] ASM emition
 
 
