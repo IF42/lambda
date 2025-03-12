@@ -1,0 +1,9 @@
+/*
+ * block comment
+ */
+
+
+() {
+    "hello"
+} 
+
